@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/time-react/static/css/main.17c592a6.chunk.css",
+    "main.js": "/time-react/static/js/main.9fefd7a5.chunk.js",
+    "main.js.map": "/time-react/static/js/main.9fefd7a5.chunk.js.map",
+    "runtime-main.js": "/time-react/static/js/runtime-main.53414371.js",
+    "runtime-main.js.map": "/time-react/static/js/runtime-main.53414371.js.map",
+    "static/js/2.53784572.chunk.js": "/time-react/static/js/2.53784572.chunk.js",
+    "static/js/2.53784572.chunk.js.map": "/time-react/static/js/2.53784572.chunk.js.map",
+    "static/js/3.de9774ae.chunk.js": "/time-react/static/js/3.de9774ae.chunk.js",
+    "static/js/3.de9774ae.chunk.js.map": "/time-react/static/js/3.de9774ae.chunk.js.map",
+    "index.html": "/time-react/index.html",
+    "static/css/main.17c592a6.chunk.css.map": "/time-react/static/css/main.17c592a6.chunk.css.map",
+    "static/js/2.53784572.chunk.js.LICENSE.txt": "/time-react/static/js/2.53784572.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.53414371.js",
+    "static/js/2.53784572.chunk.js",
+    "static/css/main.17c592a6.chunk.css",
+    "static/js/main.9fefd7a5.chunk.js"
+  ]
+}
